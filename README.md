@@ -1,6 +1,8 @@
-## Your Name
+## Robert Fishwick
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Software developer in the making with a love of things analytic and technical. Graduate of University of Bristol, where my degree in physics honed my reasoning and problem solving skills. 
+
+I am hoping to find a role that will allow to me to tackle all sorts of interesting, creatively challenging, problems and hopefully contribute to a wide variety of innovative projects.
 
 ## Skills
 
