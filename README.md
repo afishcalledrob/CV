@@ -6,13 +6,9 @@ I am hoping to find a role that will allow to me to tackle all sorts of interest
 
 ## Skills
 
-#### This Skill
+#### Research and Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
+While at university I developed my strong research and problem solving skills, in the context of laboratory work and theoretical analysis. Experiments that were largely left to the students' own initiative comprised a large part of the curriculum, in addition to a large, long-term theoretical research project.
 
 #### Another Skill
 
@@ -25,7 +21,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April-July 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -36,11 +32,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bristol
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc(Hons) Physics
+- Dissertation on superfluid vacuum theory (1st class)
 
 #### Any other qualifications
 
