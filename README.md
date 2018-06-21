@@ -4,12 +4,26 @@ Software developer in the making with a love of things analytic and technical. G
 
 I am hoping to find a role that will allow to me to tackle all sorts of interesting, creatively challenging, problems and hopefully contribute to a wide variety of innovative projects.
 
+## Projects
+
+| Project  | Description | Timeframe | Technologies | Testing Framework | Deployed App |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Acebook  | As part of a time of five we created a clone of Facebook (Fishbook). The purpose was to create a full stack web app while devloping our abilities to work effectively as a team.  | Two weeks | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise, Travis-ci, simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | |
+
+
 ## Skills
 
 #### Research and Problem Solving
 
 While at university I developed my strong research and problem solving skills, in the context of laboratory work and theoretical analysis. Experiments that were largely left to the students' own initiative comprised a large part of the curriculum, in addition to a large, long-term theoretical research project.
 
+#### Independent Learning
+
+While at university I taught myself basic C and C++.
+
+#### Customer Service
+
+During my time at and after university I have acquired experience in a variety of catering roles including Rocket Food in London and a variety of pubs in London and Bristol through which I was able to gain an understanding of customer interaction.
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -34,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Bristol
 
-- BSc(Hons) Physics
+- BSc(Hons) Physics (2:1)
 - Dissertation on superfluid vacuum theory (1st class)
 
 #### Any other qualifications
