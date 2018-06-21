@@ -23,7 +23,8 @@ While at university I taught myself basic C and C++.
 
 #### Customer Service
 
-During my time at and after university I have acquired experience in a variety of catering roles including Rocket Food in London and a variety of pubs in London and Bristol through which I was able to gain an understanding of customer interaction.
+During my time at and after university I have acquired experience in a variety of catering roles including Rocket Food in London and a variety of pubs in London and Bristol through which I was able to gain an understanding of customer interaction, attending to requests and giving customers the best experience possible.
+
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
