@@ -49,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Bristol
 
-- BSc(Hons) Physics (2:1)
+- BSc(Hons) Physics
 - Dissertation on superfluid vacuum theory (1st class)
 
 #### Any other qualifications
