@@ -9,6 +9,7 @@ I am hoping to find a role that will allow to me to tackle all sorts of interest
 | Project  | Description | Timeframe | Technologies | Testing Framework | Deployed App |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Acebook  | As part of a time of five we created a clone of Facebook (Fishbook). The purpose was to create a full stack web app while devloping our abilities to work effectively as a team.  | Two weeks | Ruby-on-Rails, PostgreSQL, HTML, CSS, Devise, Travis-ci, simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | |
+| Make My Day | For our final project at Makers Academy, as part of a team of four, we created a group web application for organising days out | Two weeks | Ruby on Rails, HTML, CSS, ReactJS, PostgreSQL, OAuth, AWS3 | RSpec-Rails, Capybara, FactoryBot | 
 
 
 ## Skills
