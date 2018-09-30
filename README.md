@@ -41,5 +41,4 @@ During my time at and after university I have acquired experience in a variety o
 #### University of Bristol
 
 - BSc(Hons) Physics
-- Dissertation on superfluid vacuum theory (1st class)
 
